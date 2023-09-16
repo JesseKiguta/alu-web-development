@@ -1,10 +1,12 @@
 body{
 	display:flex;
 	flex-direction:column;
-	background-color:peachpuff;
+	background-color:floralwhite;
+	color:plum;
+	font-size:16px;
 }
-p{
-	color:#b9deff;
+h1,h2,h3{
+	color:orchid;
 }
 main{
 	display:flex;

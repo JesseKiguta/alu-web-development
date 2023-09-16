@@ -1,12 +1,12 @@
 body{
 	display:flex;
 	flex-direction:column;
-	background-color:floralwhite;
-	color:plum;
+	background-color:#101010;
+	color:crimson;
 	font-size:16px;
 }
 h1,h2,h3{
-	color:orchid;
+	color:#3cdc14;
 }
 main{
 	display:flex;
@@ -20,4 +20,5 @@ article{
 aside{
 	flex:1;
 	overflow-y:auto;
+	background-color:#101010;
 }

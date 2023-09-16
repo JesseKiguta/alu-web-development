@@ -1,6 +1,10 @@
 body{
 	display:flex;
 	flex-direction:column;
+	background-color:peachpuff;
+}
+p{
+	color:#b9deff;
 }
 main{
 	display:flex;

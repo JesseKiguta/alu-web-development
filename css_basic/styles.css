@@ -21,11 +21,17 @@ aside{
 	flex:1;
 	overflow-y:auto;
 	background-color:#101010;
+	color:#3cdc14
 }
-header{
+header li.logo{
 	color:#3cdc14;
 }
+header ul li a{
+	color:crimson;
+} 
 footer{
 	color:#3cdc14;
 }
-
+footer a{
+	color:crimson;
+}

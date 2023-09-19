@@ -17,7 +17,7 @@ Is is true that I was with your mum last night?
 I am superior in every way.
 
 ## Okay, what's your school project going to look like?
-
+![Format]format.jpg
 
 ### Wrapping it up
 bye / kwaheri / à plus tard / auf wiedersehen / adiós 

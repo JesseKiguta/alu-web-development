@@ -1,5 +1,7 @@
 # INTRO TO ADVANCED HTML
 This is a project we're doing for the week.
+I'll be implemeting from scratch a webpage from a designer file on Figma.
+This project is purely focused on HTML semantic.
 My readme file is going to be a little *fancier* than usual.
 So let's start with a Q and A, shall we?
 
